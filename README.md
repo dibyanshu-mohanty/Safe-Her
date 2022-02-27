@@ -22,9 +22,9 @@ Tech Stack used is
 
 ### UI from the app :
 
-![WhatsApp Image 2022-02-28 at 00 37 57 (2)](https://user-images.githubusercontent.com/72657275/155896191-a34b8fdd-32b7-402c-916a-2103896adfac.jpeg =80x80)
-![WhatsApp Image 2022-02-28 at 00 37 57 (1)](https://user-images.githubusercontent.com/72657275/155896192-9cdded7a-96bb-4f66-88a1-b5ddc78f58de.jpeg =80x80)
-![WhatsApp Image 2022-02-28 at 00 37 57](https://user-images.githubusercontent.com/72657275/155896194-12b1e4b5-7f2c-4c08-b4f6-5fbf10285ad0.jpeg =80x80)
-![WhatsApp Image 2022-02-28 at 00 37 58](https://user-images.githubusercontent.com/72657275/155896196-54924987-bc82-4b52-9609-5bc24f36e29a.jpeg =80x80)
+<img src="https://user-images.githubusercontent.com/72657275/155896191-a34b8fdd-32b7-402c-916a-2103896adfac.jpeg" width="100" />
+<img src="https://user-images.githubusercontent.com/72657275/155896192-9cdded7a-96bb-4f66-88a1-b5ddc78f58de.jpeg" width="100" />
+<img src="https://user-images.githubusercontent.com/72657275/155896194-12b1e4b5-7f2c-4c08-b4f6-5fbf10285ad0.jpeg" width="100" />
+<img src="https://user-images.githubusercontent.com/72657275/155896196-54924987-bc82-4b52-9609-5bc24f36e29a.jpeg" width="100" />
 
 
