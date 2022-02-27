@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "387989127696",
+    "project_id": "safeher-8d442",
+    "storage_bucket": "safeher-8d442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387989127696:android:d8a8598a422a6a37bec095",
+        "android_client_info": {
+          "package_name": "com.example.safe_her"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387989127696-ncfiisr4bnt4avif3aa57qg0up10aa8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safe_her",
+            "certificate_hash": "f62899c2c8037b4ea7a181e111407fcf979c6ed1"
+          }
+        },
+        {
+          "client_id": "387989127696-2i0dlaurj4jv0aruu1p5lpq2s3kjr5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2aYKAvi_t4dHSf8RoP5mxjkVh3RQokPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387989127696-2i0dlaurj4jv0aruu1p5lpq2s3kjr5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
