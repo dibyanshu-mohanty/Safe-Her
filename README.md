@@ -20,6 +20,13 @@ Tech Stack used is
 
 #### Future Scope 🚀 : As the technology is growing faster and faster everyday, there is always a new scope of tech that can be used to solve problems of the people. As the future of our product, we see to integrate a voice note nudge feature along with a text message. We also aim to build an AI powered app with Alan AI which automatically recognizes for a particular instruction and sends away necessary notifications to your family without even opening the app.
 
+## Note: 
+Before Running the App Locally , Make Sure to add the api key(Maps SDK for Android enabled on Google Cloud Platform) to the below code and further add this to the `AndroidManifest.xml` file
+```
+       <meta-data android:name="com.google.android.geo.API_KEY"
+           android:value="YOUR_API_KEY"/>
+```
+
 ### UI from the app :
 
 <img src="https://user-images.githubusercontent.com/72657275/155896191-a34b8fdd-32b7-402c-916a-2103896adfac.jpeg" width="100" />
