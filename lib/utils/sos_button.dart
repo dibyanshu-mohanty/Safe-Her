@@ -67,11 +67,14 @@ class _SOSButtonState extends State<SOSButton> {
             )
                 : SeekHelp().sendHelp(message, recipients, context);
             setState(() {
+              _isUndo=false;
+            });
+            setState(() {
               _isLoading = false;
             });
           },
           child: Container(
-            height: MediaQuery.of(context).size.height * 0.5,
+            height: MediaQuery.of(context).size.height * 0.55,
             alignment: Alignment.center,
             child: Column(
               children: [

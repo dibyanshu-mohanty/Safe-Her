@@ -59,6 +59,7 @@ dependencies:
   geolocator: ^8.0.1
   alan_voice: 3.0.0
   timer_snackbar: ^0.0.3
+  flutter_phone_direct_caller:
 
 dev_dependencies:
   flutter_test:
